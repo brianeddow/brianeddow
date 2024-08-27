@@ -4,9 +4,7 @@
 
 A polyglot in spoken and loosely typed language, guitarist, fitness junkie, habitual duolingo user, master of none.
 
-<p style="max-width: fit-content;
-  margin-left: auto;
-  margin-right: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianeddow&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianeddow&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></div>
 
 <!--
 **brianeddow/brianeddow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
